@@ -1,8 +1,8 @@
 import React from "react";
-import Header from "./Header";
-import Faucet from "./Faucet";
-import Balance from "./Balance";
-import Transfer from "./Transfer";
+import Header from "./components/Header";
+import Faucet from "./components/Faucet";
+import Balance from "./components/Balance";
+import Transfer from "./components/Transfer";
 
 function App() {
 

@@ -14,7 +14,7 @@ function Faucet() {
         </span>
         Faucet
       </h2>
-      <label>Get your free DAngela tokens here! Claim 10,000 DANG coins to your account.</label>
+      <label>Get your free tokens here! Claim 10,000 DANG coins to your account.</label>
       <p className="trade-buttons">
         <button id="btn-payout" onClick={handleClick}>
           Gimme gimme
