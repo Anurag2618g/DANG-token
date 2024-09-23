@@ -106,7 +106,7 @@ echo $CANISTER_PUBLIC_KEY
 
 4. Transfer half a billion tokens to the canister Principal ID:
 ```
-dfx canister call token transfer "($CANISTER_PUBLIC_KEY, 500_000_000)"
+dfx canister call token transfer "($CANISTER_PUBLIC_KEY, 50_000_000)"
 ```
 
 # Deploy the Project to the Live IC Network
